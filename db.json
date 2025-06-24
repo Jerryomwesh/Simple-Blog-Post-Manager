@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Blog Post",
+      "content": "This is the content of my first post.",
+      "author": "Jerry Omweno"
+    },
+    {
+      "id": 2,
+      "title": "Learning JavaScript",
+      "content": "JavaScript is powerful for web development!",
+      "author": "Jerry Omweno"
+    }
+  ]
+}

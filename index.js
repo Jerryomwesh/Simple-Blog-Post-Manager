@@ -16,23 +16,23 @@ blogListTitle.className = 'blog-list-title';
 blogListTitle.textContent = 'Blog List';
 blogListSection.appendChild(blogListTitle);
 
-// Blog list container (should be directly below the title)
+// Blog list container
 const blogList = document.createElement('div');
 blogList.className = 'blog-list';
 blogListSection.appendChild(blogList);
 
-// Add Blog button (should be below the blog list)
+// Add Blog button 
 const addButton = document.createElement('button');
 addButton.textContent = '+ Add Blog Post';
 addButton.className = 'add';
 blogListSection.appendChild(addButton);
 
-// Add form dropdown placeholder (will be inserted below the add button)
+// Add form dropdown placeholder
 const addFormPlaceholder = document.createElement('div');
 addFormPlaceholder.className = 'add-form-placeholder';
 blogListSection.appendChild(addFormPlaceholder);
 
-// Post details section (right)
+// Post details section to the right
 const postDetailsSection = document.createElement('div');
 postDetailsSection.className = 'post-details-section';
 mainContainer.appendChild(postDetailsSection);
@@ -50,7 +50,7 @@ postDetailsHeader.appendChild(postDetailsMainTitle);
 postDetailsHeader.appendChild(postDetailsSubtitle);
 postDetailsSection.appendChild(postDetailsHeader);
 
-// Helper to render blog list
+// Helps to render blog list
 function renderBlogList(posts) {
     blogList.innerHTML = '';
     posts.forEach((post, idx) => {
@@ -62,7 +62,7 @@ function renderBlogList(posts) {
     });
 }
 
-// Helper to render post details
+// Helps to render post details
 function renderPostDetails(post) {
     // Remove previous details block if any
     let oldBlock = document.querySelector('.post-details-block');
@@ -79,7 +79,7 @@ function renderPostDetails(post) {
     topRightBtns.style.gap = '8px';
     topRightBtns.style.marginBottom = '8px';
 
-    // Edit button with SVG icon
+    // Edit button with icon
     const editBtn = document.createElement('button');
     editBtn.className = 'edit-btn icon-btn';
     editBtn.title = 'Edit';

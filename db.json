@@ -1,16 +1,41 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "My First Blog Post",
-      "content": "This is the content of my first post.",
-      "author": "Jerry Omweno"
+      "id": "1",
+      "title": "The Finance Bill 2025:",
+      "content": "Kenya’s Finance Bill 2025 has sparked nationwide protests, with citizens voicing their frustration over new tax proposals that threaten to increase the cost of living. While the government argues that the bill is necessary to raise revenue, many Kenyans see it as an unfair burden on ordinary citizens. ",
+      "author": "Tuko News",
+      "date": "2025-06-25",
+      "imageUrl": "https://cms.cnbcafrica.com/wp-content/uploads/2024/07/KN4GN4LXKNL4ROPUFKEJ2724LM-820x547.jpg"
     },
     {
-      "id": 2,
-      "title": "Learning JavaScript",
-      "content": "JavaScript is powerful for web development!",
-      "author": "Jerry Omweno"
+      "title": "Iran vs Israel",
+      "content": "The ongoing conflict between Iran and Israel has escalated into a dangerous confrontation, drawing global attention and concern. Israel launched airstrikes on Iranian nuclear facilities, claiming they were close to developing weapons of mass destruction. In response, Iran fired missiles at Israeli cities, leading to casualties and widespread destruction. The United States intervened, targeting Iranian military sites, further complicating the situation. A ceasefire was brokered, but tensions remain high as both sides refuse to back down completely. The conflict has caused oil prices to surge and raised fears of a broader regional war. As diplomatic efforts continue, the world watches anxiously, hoping for a peaceful resolution to prevent further bloodshed.",
+      "author": "Hamidreza Zarifinia",
+      "imageUrl": "https://dims.apnews.com/dims4/default/c43ea95/2147483647/strip/true/crop/8640x5760+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F9e%2F80a4ed0bf016075f7ea7a4d24ced%2F088cbc62928648ae928686133a5d102d",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Moringa School",
+      "content": "Moringa School is a leading tech education institution in Nairobi, Kenya, offering immersive bootcamps in software engineering, data science, cybersecurity, and UI/UX design. Since its founding in 2014 by Taiwanese-American entrepreneur Audrey Cheng, Moringa has transformed thousands of students into industry-ready professionals. The school’s curriculum is designed to align with current employment trends, ensuring graduates are equipped with practical skills that make them competitive in the job market. With a strong emphasis on hands-on learning, students engage in real-world projects, peer programming, and mentorship from top industry experts. Moringa School boasts a high job placement rate, with alumni securing roles in top companies across Africa and beyond. Its partnership with Hack Reactor, a leading Silicon Valley coding school, further enhances its reputation as a premier tech training institution. Whether you're looking to upskill, switch careers, or launch your startup, Moringa provides the tools to Discover, Grow, and Transform your journey in tech",
+      "author": "Jerry Omweno",
+      "date": "2025-06-26",
+      "imageUrl": "https://moringaschool.com/wp-content/uploads/2021/08/accelerated-learning-2.jpg"
+    },
+    {
+      "title": "JavaScript: The Definitive Guide",
+      "content": "JavaScript: The Definitive Guide is a comprehensive resource for anyone looking to master JavaScript, the programming language that powers the web. Written by David Flanagan, this book covers everything from the basics of JavaScript syntax to advanced topics like asynchronous programming and functional programming. It serves as both a tutorial for beginners and a reference for experienced developers. The book is divided into three parts: the first part introduces the core features of JavaScript, the second part delves into the Document Object Model (DOM) and browser APIs, and the third part explores advanced topics such as regular expressions, error handling, and performance optimization. With clear explanations, practical examples, and in-depth coverage of the language, this book is an essential guide for anyone looking to become proficient in JavaScript.",
+      "author": "David Flanagan",
+      "imageUrl": "https://www.infoworld.com/wp-content/uploads/2025/05/2263137-0-24139200-1747637392-shutterstock_1361674454-100939444-orig.jpg?quality=50&strip=all",
+      "id": "VWzH4H5"
+    },
+    {
+      "title": "The Global Battle for Club Supremacy",
+      "content": "july 25th kenyans demonstrated on the streets",
+      "author": " FIFA Club World Cup 2025",
+      "imageUrl": "https://media.assettype.com/freepressjournal/2025-06-20/dw8k4al1/Gt2rVjzXQAAY2Ul.jpg",
+      "id": "HknJVjI"
     }
   ]
 }

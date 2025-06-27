@@ -21,12 +21,10 @@ A modern, user-friendly web application for managing blog posts. This project fe
 - Edit mode is accessible via the pencil icon; changes are saved or canceled with a single click.
 - All data is managed in-memory for simplicity and speed.
 
-## Usage
-1. Open `index.html` in your browser.
-2. Browse the list of blog posts on the left.
-3. Click a post to view its details on the right.
-4. Use the "Add Blog Post" button to open the add form and submit new content.
-5. Click the Edit icon in the post details to update a post, or Cancel (X) to close the form.
+## Getting Started
+1. Clone or download this repository.
+2. Open `index.html` in your preferred web browser.
+3. Browse, add, or edit blog posts using the intuitive interface.
 
 ## Project Structure
 - `index.html` – Main HTML file
@@ -35,9 +33,9 @@ A modern, user-friendly web application for managing blog posts. This project fe
 - `db.json` – Sample data (if used)
 
 ## Customization
-- To change the color scheme or layout, edit `style.css`.
-- To modify post fields or validation, update the form logic in `index.js`.
-- For sample data, adjust or replace `db.json` as needed.
+- **Styling:** Modify `style.css` to adjust colors, spacing, or layout.
+- **Form Fields:** Update `index.js` to add or remove fields in the add/edit forms.
+- **Sample Data:** Edit or replace `db.json` to change the initial blog posts.
 
 ## Notes
 - No backend required; all functionality is handled client-side.
@@ -46,4 +44,12 @@ A modern, user-friendly web application for managing blog posts. This project fe
 
 ---
 
-Built as a practical demonstration of modern web UI/UX principles. Ideal for learning, prototyping, or as a starting point for more advanced blog applications.
+## Author
+**Jerry Omweno**  
+Crafted with HTML, CSS, and JavaScript to demonstrate DOM manipulation and modern web principles.
+
+## License
+
+This project is licensed under the Licensed Board.
+
+&copy; 2025 Jerry Omweno. All rights reserved.
